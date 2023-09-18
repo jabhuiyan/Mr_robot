@@ -1,0 +1,6 @@
+// your discord bot token
+TOKEN =
+// your openai API key
+OPENAI_API_KEY =
+// discord channel ID
+CHANNEL_ID =
